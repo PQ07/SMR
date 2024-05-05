@@ -1,0 +1,16 @@
+.div-map{
+	width: 50%;
+	margin-left: 40px;
+	margin-top: 60px;
+}
+.div{
+	display: flex;
+	justify-content: center;
+}
+
+#map{
+	margin: 6x;
+	padding: 2px;
+	height: 500px;
+	width: 100%;
+}
